@@ -13,6 +13,3 @@ I utilize transfer learning with pretrained mobile_net deep neural network becau
 | :---------------------: |:-------------------------:| 
 | <img src="https://github.com/AbdulRahmanSilmy/Machine-Assembly-Object-Detector/blob/main/images/input/bluecoverpcbtopfuse_16.jpeg" width="200" height="200" />| <img src="https://github.com/AbdulRahmanSilmy/Machine-Assembly-Object-Detector/blob/main/images/output/download%20(2).png" width="200" height="200" /> | 
 | <img src="https://github.com/AbdulRahmanSilmy/Machine-Assembly-Object-Detector/blob/main/images/input/empty_25.jpeg" width="200" height="200" /> | <img src="https://github.com/AbdulRahmanSilmy/Machine-Assembly-Object-Detector/blob/main/images/output/download%20(3).png" width="200" height="200" /> |  
-|<img src="https://github.com/AbdulRahmanSilmy/Machine-Assembly-Object-Detector/blob/main/images/input/redcoverpcbbothfuse_19.jpeg" width="200" height="200" />| <img src="https://github.com/AbdulRahmanSilmy/Machine-Assembly-Object-Detector/blob/main/images/output/download%20(4).png" width="200" height="200" /> |   
-
-
