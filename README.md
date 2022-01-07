@@ -1,11 +1,11 @@
 # Assembly-Line-Object-Detector
-Here I develope a model to be used for an automated quality assurance unit in the manufacturing assembly. 
+Here I developed a model to be used for an automated quality assurance unit in the manufacturing assembly. 
 
 The [folder](https://drive.google.com/drive/folders/1NPSe6jSGzYp8Xd81uxs9kF1o5BPGgz7p?usp=sharing
 ) with all relevent files.
 
 
-I utilize transfer learning with pretrained mobile_net deep neural network because the final trained neural network will run on a rasperry PI and hence needs to be light weight. 
+I utilize transfer learning with pretrained mobile_net deep neural network because the final trained neural network will run on a rasperry PI and hence needs to be light weight. Note this is still a work in progress and improvements will be added.
 
 ## Example of detection
 
