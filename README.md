@@ -40,7 +40,7 @@ Note this is still a work in progress, more information and improvements will be
 Before training the system it is important to gather images that the ML system will be trained on. To do this gather around 15-20 pictures of every image that the ML algorithm will see. This means that you take 15-20 pictures of just a black front cover. Then take another 15-20 pictures of a black front cover with a PCB. Another, 15-20 of the same combination with the top fuse, rear fuse and both fuses at the same time. Repeat this process for every colour front cover. Since the back cover hides everything underneath it, it doesn’t matter what is underneath it. Thus take 15-20 pictures of each colour of back cover present. 
 
 ### Step3: Label images
-"""script to label images can be included here"""
+
  <img src="https://user-images.githubusercontent.com/79419793/149260690-0bc37b33-8626-4bf8-b610-5cd8dca9c102.png" width="800" height="400" />
 
 ### Step4: Training the machine learning system
