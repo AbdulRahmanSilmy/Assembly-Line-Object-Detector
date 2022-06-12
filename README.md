@@ -56,7 +56,5 @@ Training is best run on google colab because we can take advantage of googles gp
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/79419793/149263357-2aae6dfb-7ae7-45a4-a063-12485664bca8.png">
 
 
-### Step4: Evaluation of Model 
-""" develope script for model evaluation """
 
 
