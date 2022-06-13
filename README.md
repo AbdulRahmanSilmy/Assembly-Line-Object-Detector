@@ -5,9 +5,9 @@ The [folder](https://drive.google.com/drive/folders/1NPSe6jSGzYp8Xd81uxs9kF1o5BP
 ) with all relevent files.
 
 
-I utilize transfer learning with pretrained mobile_net deep neural network. The final trained neural network will run on a rasperry PI and needs to be light weight, hence the choice of mobine_net. 
+I utilize transfer learning with pretrained mobile_net deep neural network. The final trained neural network will run on a rasperry PI and needs to be light weight, hence the choice of mobile_net. 
 
-Note this is still a work in progress, more information and improvements will be added.
+Note the work present here is still a work in progress, more information and improvements will be added.
 
 ## Example of detection
 
