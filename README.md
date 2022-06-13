@@ -7,7 +7,9 @@ The [folder](https://drive.google.com/drive/folders/1NPSe6jSGzYp8Xd81uxs9kF1o5BP
 
 I utilize transfer learning with pretrained mobile_net deep neural network. The final trained neural network will run on a rasperry PI and needs to be light weight, hence the choice of mobile_net. 
 
-Note the work present here is still a work in progress, more information and improvements will be added.
+Errors in the xml files of the data collected have been auto corrected using the [datacorrector module](https://github.com/AbdulRahmanSilmy/Assembly-Line-Object-Detector/blob/main/datacorrector.py) and demonstrated in the [xml notebook.](https://github.com/AbdulRahmanSilmy/Assembly-Line-Object-Detector/blob/main/xml_corrector_code.ipynb)
+
+Note the work presented here is still a work in progress, more information and improvements will be added.
 
 ## Example of detection
 
